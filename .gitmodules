@@ -1,0 +1,3 @@
+[submodule "FND-CLIP"]
+	path = FND-CLIP
+	url = https://github.com/YashJain14/FND-CLIP-Fake-News-Detection.git

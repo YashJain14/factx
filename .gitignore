@@ -1,0 +1,5 @@
+.history
+.venv
+.DS_Store
+.env.local
+.env.example
